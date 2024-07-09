@@ -130,6 +130,7 @@ header{
 
 #education{
     margin-top: 10rem;
+    padding-top: 5rem;
 }
 .Education-container{
     display: grid;
@@ -145,6 +146,7 @@ header{
 
 #Skills{
     margin-top: 10rem;
+    padding-top: 5rem;
 }
 
 .skills-container{
@@ -161,6 +163,7 @@ header{
 
 #projects{
     margin-top: 10rem;
+    padding-top: 5rem;
 }
 .project-container{
     margin-top: 10px;
@@ -177,6 +180,7 @@ header{
 }
 #contact{
     margin: 10rem auto;
+    padding-top: 5rem;
 }
 .contact-container{
     max-width: 30rem;
